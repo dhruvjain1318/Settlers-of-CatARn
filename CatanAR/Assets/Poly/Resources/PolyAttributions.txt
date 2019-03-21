@@ -1,0 +1,109 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Coast
+Author: Poly by Google
+URL: https://poly.google.com/view/eTbU76rZDMO
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Dice
+Author: Igor Volodin
+URL: https://poly.google.com/view/bA4lAfgNYjd
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Field
+Author: Poly by Google
+URL: https://poly.google.com/view/crMd2fnb17X
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Field of corn
+Author: Poly by Google
+URL: https://poly.google.com/view/dE73diXi82k
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Field of wheat
+Author: Poly by Google
+URL: https://poly.google.com/view/cNX9BRNG6ep
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Funky Castle
+Author: Paul Spooner
+URL: https://poly.google.com/view/8W5JCFAmb9d
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: grass yellowing
+Author: Steve B
+URL: https://poly.google.com/view/eFUpFgjCf0p
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Green Cactus
+Author: Daniel Melchior
+URL: https://poly.google.com/view/2Kng1KnfMEc
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Haystack
+Author: Poly by Google
+URL: https://poly.google.com/view/6LeCqyw00RK
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Lighthouse
+Author: Poly by Google
+URL: https://poly.google.com/view/0t2ZYRBsqX-
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Mountain
+Author: Poly by Google
+URL: https://poly.google.com/view/0Fl55ZzsVzT
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Oasis
+Author: Henry Canapp
+URL: https://poly.google.com/view/duPlvYDYiv1
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Pavel Lishtvan / Tractor
+Author: VIR The Gallery of VR
+URL: https://poly.google.com/view/2ch2e2M_uyC
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: red field
+Author: Jeremy Eyring
+URL: https://poly.google.com/view/7RPRcKA2SX-
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Scorpion
+Author: Poly by Google
+URL: https://poly.google.com/view/6Bu7d_Pkm5o
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Tractor
+Author: Nutpam 360
+URL: https://poly.google.com/view/66QMmulceLm
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Van Gogh WheatField
+Author: Hajar Azzam
+URL: https://poly.google.com/view/cDv-MrOjwC0
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Wheat
+Author: Poly by Google
+URL: https://poly.google.com/view/4siom7-sFLN
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode

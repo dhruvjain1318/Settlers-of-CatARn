@@ -1,0 +1,2 @@
+Lighthouse singly.bin -> FFC0124F02F4BE86C6FFFCBA7626EEF3.bin
+Lighthouse texture.png -> 85032051CE8BE8EFF82BC486121707BA.png

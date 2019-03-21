@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Forest4" size="1050.000000 918.750000" />
+    <ImageTarget name="Sheep4" size="1050.000000 918.750000" />
+    <ImageTarget name="Wheat4" size="1050.000000 918.750000" />
+    <ImageTarget name="Desert" size="1050.000000 918.750000" />
+    <ImageTarget name="Wheat3" size="1050.000000 918.750000" />
+    <ImageTarget name="Sheep3" size="1050.000000 918.750000" />
+    <ImageTarget name="Ore3" size="1050.000000 918.750000" />
+    <ImageTarget name="Forest3" size="1050.000000 918.750000" />
+    <ImageTarget name="Brick3" size="1050.000000 918.750000" />
+    <ImageTarget name="Wheat2" size="1050.000000 918.750000" />
+    <ImageTarget name="Sheep2" size="1050.000000 918.750000" />
+    <ImageTarget name="Ore2" size="1050.000000 918.750000" />
+    <ImageTarget name="Forest2" size="1050.000000 918.750000" />
+    <ImageTarget name="Brick2" size="1050.000000 918.750000" />
+    <ImageTarget name="Brick1" size="1050.000000 918.750000" />
+    <ImageTarget name="Forest1" size="1050.000000 918.750000" />
+    <ImageTarget name="Ore1" size="1050.000000 918.750000" />
+    <ImageTarget name="Sheep1" size="1050.000000 918.750000" />
+    <ImageTarget name="Wheat1" size="1050.000000 918.750000" />
+  </Tracking>
+</QCARConfig>
